@@ -72,6 +72,6 @@ All three exports enable `web_search`, while the knowledge agent says to use onl
 
 I tested the deployed `ritu-it-support-workflow` with a CRM access scenario. The Preview completed the intake, knowledge, and triage steps and returned a suggested priority, next action, missing information, and a requirement for human helpdesk review.
 
-![Foundry workflow Preview](docs/screenshots/Screenshot%202026-09-18%20230610.png)
+![Foundry workflow Preview](docs/screenshots/workflow-preview.png)
 
-![Final triage response](docs/screenshots/Screenshot%202026-09-18%20230632.png)
+![Final triage response](docs/screenshots/triage-response.png)
