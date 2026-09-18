@@ -62,6 +62,7 @@ After GitHub Actions succeeds, link its actual run here. Add a deployment URL on
 - [ ] New deployment responds to a fictional request
 - [ ] Basic escalation and missing-information cases reviewed
 - [ ] Accessible demo/deployment URL provided, if required
+- [GitHub Actions validation: passed](https://github.com/mishraritu875-lgtm/it-support-triage-agent/actions/runs/35374190072)
 
 ## Configuration review
 
