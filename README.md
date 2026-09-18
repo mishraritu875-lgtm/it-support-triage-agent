@@ -67,3 +67,11 @@ After GitHub Actions succeeds, link its actual run here. Add a deployment URL on
 ## Configuration review
 
 All three exports enable `web_search`, while the knowledge agent says to use only the approved guide and the triage agent says not to search the web. Before the next evaluation or deployment, disable web search where it is not needed, save new agent versions, and rerun representative tests. The YAML here documents the versions originally evaluated; it has not silently modified the deployed agents.
+
+## Live Foundry Preview
+
+I tested the deployed `ritu-it-support-workflow` with a CRM access scenario. The Preview completed the intake, knowledge, and triage steps and returned a suggested priority, next action, missing information, and a requirement for human helpdesk review.
+
+![Foundry workflow Preview](docs/screenshots/Screenshot%202026-09-18%20230610.png)
+
+![Final triage response](docs/screenshots/Screenshot%202026-09-18%20230632.png)
